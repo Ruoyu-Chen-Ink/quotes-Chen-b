@@ -7,6 +7,6 @@
 - `contributor-3`: Abishek Egilone Group B 
 
 ## Fork urls
-- `contributor-1`:[quotes-Chhu-b](url-1)
-- `contributor-2`:[quotes-Saade-b](url-2)
+- `contributor-1`:[[quotes-Chhu-b](https://github.com/shimitsui/quotes-Chhu-b)](url-1)
+- `contributor-2`:[[quotes-Saade-b](https://github.com/Quivenn/quotes-Saade-b)](url-2)
 - `contributor-3`:[[quotes-Egilone-b](https://github.com/AbiEG18/quotes-Egilone-b)](url-3)
